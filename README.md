@@ -4,5 +4,7 @@ Data set from Kaggle's [I’m Something of a Painter Myself: Use GANs to create 
 
 Includes: 
 - all the Monet JPG images
-- 1000 of the 7000 photo JPG images
-- none of the TFRecords images.
+- 300 of the 7000 photo JPG images
+- all of the Monet TFRecords images.
+- A limited number of the Photo TFRecords images
+- 
